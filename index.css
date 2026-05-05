@@ -344,6 +344,7 @@ img { max-width: 100%; display: block; }
 }
 .case-kpi-label { font-size: 11px; color: var(--text-body); margin-top: 4px; }
 .case-content p { font-size: 14px; color: var(--text-body); line-height: 1.6; }
+.case-btn { margin-top: 24px; width: 100%; justify-content: center; background: rgba(255,255,255,0.03); }
 
 /* === CTA FINAL === */
 .cta-final { padding: 140px 56px; position: relative; overflow: hidden; }
